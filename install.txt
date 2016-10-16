@@ -10,7 +10,7 @@ Need the main version of the kanji SVG files of the kanjiVG project
 
 How to install animKanji
 ------------------------
-1) Get animKanji archive
+1) Get animKanji archive (from http://github.com)
 2) Unzip the archive file (a folder called "animKanji" is created)
 3) Upload this folder on your website
 4) Get kanjiVG SVG files archive (for instance from https://github.com/KanjiVG/kanjivg/releases)
