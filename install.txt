@@ -1,0 +1,23 @@
+animKanji project
+-----------------
+The aim of this project is to display animated drawing of kanji using kanjiVG.
+See http://kanjivg.tagaini.net for more details about kanjiVG.
+
+requirements
+------------
+Need a web server with php >= 4.0.6
+Need the main version of the kanji SVG files of the kanjiVG project
+
+How to install animKanji
+------------------------
+1) Get animKanji archive
+2) Unzip the archive file (a folder called "animKanji" is created)
+3) Upload this folder on your website
+4) Get kanjiVG SVG files archive (for instance from https://github.com/KanjiVG/kanjivg/releases)
+You don't need to dowload the whole project.
+You only need to dowload the folder that contains the main version of the kanji SVG files.
+5) Unzip the archive file (a folder is created, rename it to "kanjiVG")
+6) Upload this folder on your website
+7) Start a browser
+8) Visit the page "index.php" of the "animKanji" folder
+9) Evenly modify the values of input fields on the top of the page, then click on "OK" button
