@@ -47,10 +47,7 @@ svg
 	display:inline-block;
 	padding:0;
 	margin:0;
-	width:109px; /*for browsers that cannot use vw*/
-	width:28vw;
-	height:109px; /*for browsers that cannot use vw*/
-	height:28vw;
+	width:30%;
 	fill:none;
 	stroke:<?php echo $c;?>;
 	stroke-width:<?php echo $e;?>px;

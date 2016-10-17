@@ -25,7 +25,7 @@ p.back {text-align:center;}
 <h1>animKanji</h1>
 <div id="a">
 <p>
-animKanji v 1.0 - Copyright 2016 - François Mizessyn</p><p>
+animKanji v 1.01 - Copyright 2016 - François Mizessyn</p><p>
 This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:</p><p>
 * to Share - to copy, distribute and transmit the work</p><p>
