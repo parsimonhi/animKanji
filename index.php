@@ -48,6 +48,7 @@ svg
 	padding:0;
 	margin:0;
 	width:30%;
+	height:30%;
 	fill:none;
 	stroke:<?php echo $c;?>;
 	stroke-width:<?php echo $e;?>px;
